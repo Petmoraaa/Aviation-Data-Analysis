@@ -13,7 +13,7 @@ This project analyzes aviation data to assist a company in choosing the lowest-r
 **Files in This Repository**
 Phase one project Presentation.pdf: A presentation summarizing the findings.
 phase one jupyter notebook.ipynb: Jupyter notebook containing the analysis steps.
-AVIATION DATA TABLEAU.pdf: Summary of Tableau visualizations.
+AVIATION DATA TABLEAU.pdf: Summary of Tableau visualizations.The URL to the tableau link is https://public.tableau.com/app/profile/petronilla.moraa/viz/PhaseOneProject2/AVIATIONDATA?publish=yes
 
 **Sources**
 - The dataset was obtained from  National Transportation Safety Board
