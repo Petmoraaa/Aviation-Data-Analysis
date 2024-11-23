@@ -2,7 +2,7 @@
 This project analyzes aviation data to assist a company in choosing the lowest-risk aircraft for their commercial and private operations. The goal is to provide actionable insights based on historical accident data, accident severity, and aircraft characteristics. The company aims to reduce operational risks and make informed decisions regarding aircraft purchases.
 
 **Data Cleaning**
-1. **Data Collection**: Data was collected from the National Transportation Safety Board
+1. **Data Collection**: Data was collected from the National Transportation Safety Board https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 2. **Data Cleaning**: Data cleaning involved handling missing values
 
 **Findings**
