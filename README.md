@@ -8,7 +8,7 @@ This project analyzes aviation data to assist a company in choosing the lowest-r
 **Findings**
 - High-Risk Aircraft: Aircraft models like Cessna, Piper, and Beech have the highest accident rates.
 - Low-Fatal Injury Aircraft: Models such as RANS S-9 and C-180 have lower fatal injury rates.
-- High-Injury Aircraft**: Aircraft from manufacturers like Boeing, Tupolev, and Airbus have higher fatal injuries.
+- High-Injury Aircraft: Aircraft from manufacturers like Boeing, Tupolev, and Airbus have higher fatal injuries.
 
 **Files in This Repository**
 Phase one project Presentation.pdf: A presentation summarizing the findings.
